@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: PLSA_template.aux
+The style file: sp-lsa.bst.bst
+Database file #1: lsa.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty journal in ozernyi_linguistic_2022
+Warning--empty journal in ozernyi_rise_2022
+You've used 12 entries,
+            3147 wiz_defined-function locations,
+            692 strings with 6369 characters,
+and the built_in function-call counts, 6467 in all, are:
+= -- 539
+> -- 194
+< -- 12
++ -- 77
+- -- 56
+* -- 404
+:= -- 1023
+add.period$ -- 56
+call.type$ -- 12
+change.case$ -- 82
+chr.to.int$ -- 11
+cite$ -- 14
+duplicate$ -- 540
+empty$ -- 543
+format.name$ -- 83
+if$ -- 1303
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 109
+newline$ -- 76
+num.names$ -- 51
+pop$ -- 204
+preamble$ -- 1
+purify$ -- 66
+quote$ -- 0
+skip$ -- 179
+stack$ -- 0
+substring$ -- 254
+swap$ -- 248
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 96
+warning$ -- 2
+while$ -- 49
+width$ -- 0
+write$ -- 179
+(There were 2 warnings)

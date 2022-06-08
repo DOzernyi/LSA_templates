@@ -1,0 +1,802 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.8)  8 JUN 2022 18:16
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**PLSA_template.tex
+(./PLSA_template.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-06-02>
+(c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(c:/texlive/2022/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/texlive/2022/texmf-dist/tex/generic/expex/expex.sty
+Package: expex 5/1/2017 v5.1b LaTex wrapper for expex.tex (JF)
+
+(c:/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+
+(c:/texlive/2022/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count193
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2022/texmf-dist/tex/generic/expex/expex.tex
+File: expex.tex 5/25/2017 v5.1b ExPex linguistics example formatter (JF)
+\ep@dima=\dimen139
+\ep@dimb=\dimen140
+\ep@dimc=\dimen141
+\ep@cnta=\count194
+\epc@b=\count195
+\excnt=\count196
+\numbox=\box50
+\epd@numright=\dimen142
+\pexcnt=\count197
+\epd@labelleft=\dimen143
+\epd@labelright=\dimen144
+\epd@textleft=\dimen145
+\epd@preambleleft=\dimen146
+\epd@sampleexnowidth=\dimen147
+\ep@everylabel=\toks18
+\exnobox=\box51
+\ling@tagsfile=\write3
+\ling@tagsin=\read2
+\glstrutbox=\box52
+\ep@cascadeindent=\dimen148
+\ep@hangindentamount=\dimen149
+\ep@cascadecount=\count198
+\gltoks@a=\toks19
+\gltoks@b=\toks20
+\glw@maxht=\dimen150
+\glw@maxdp=\dimen151
+\@itemtype=\count199
+\gl@maxdplast=\dimen152
+\gltoks@sofar=\toks21
+\gltoks@every=\toks22
+\gltoks@next=\toks23
+\debug@glword=\box53
+\@glaparsestate=\count266
+\glwcascade@pshapeindent=\dimen153
+\glwcascade@pshapelinewd=\dimen154
+\ssleftwd=\dimen155
+\ssrightwd=\dimen156
+))
+(c:/texlive/2022/texmf-dist/tex/latex/marvosym/marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tabularray/tabularray.sty
+(c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-06-02 L3 programming layer (loader) 
+
+(c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count267
+\l__pdf_internal_box=\box54
+))
+Package: tabularray 2022-06-01 v2022B Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count268
+\l__tblr_c_int=\count269
+\l__tblr_r_int=\count270
+\l__tblr_d_dim=\dimen157
+\l__tblr_h_dim=\dimen158
+\l__tblr_o_dim=\dimen159
+\l__tblr_p_dim=\dimen160
+\l__tblr_q_dim=\dimen161
+\l__tblr_r_dim=\dimen162
+\l__tblr_s_dim=\dimen163
+\l__tblr_t_dim=\dimen164
+\l__tblr_v_dim=\dimen165
+\l__tblr_w_dim=\dimen166
+\l__tblr_a_box=\box55
+\l__tblr_b_box=\box56
+\l__tblr_c_box=\box57
+\l__tblr_d_box=\box58
+\g__tblr_table_count_int=\count271
+\c@rownum=\count272
+\c@colnum=\count273
+\c@rowcount=\count274
+\c@colcount=\count275
+\abovesep=\dimen167
+\belowsep=\dimen168
+\leftsep=\dimen169
+\rightsep=\dimen170
+\g_tblr_level_int=\count276
+\g__tblr_data_row_key_count_int=\count277
+\g__tblr_data_column_key_count_int=\count278
+\g__tblr_data_cell_key_count_int=\count279
+\g__tblr_array_int=\count280
+\l__tblr_key_count_int=\count281
+\l__tblr_key_quotient_int=\count282
+\l__tblr_key_quotient_two_int=\count283
+\l__tblr_key_remainder_int=\count284
+\g__tblr_data_str_value_count_int=\count285
+\rulewidth=\dimen171
+\l__tblr_strut_ht_box=\box59
+\l__tblr_strut_dp_box=\box60
+\g__tblr_cell_wd_dim=\dimen172
+\g__tblr_cell_ht_dim=\dimen173
+\g__tblr_cell_head_dim=\dimen174
+\g__tblr_cell_foot_dim=\dimen175
+\l__column_target_dim=\dimen176
+\l__tblr_caption_box=\box61
+\l__tblr_caption_left_box=\box62
+\l__tblr_row_head_box=\box63
+\l__tblr_row_foot_box=\box64
+\l__tblr_row_head_foot_dim=\dimen177
+\tablewidth=\dimen178
+\l__tblr_table_firsthead_box=\box65
+\l__tblr_table_middlehead_box=\box66
+\l__tblr_table_lasthead_box=\box67
+\l__tblr_table_firstfoot_box=\box68
+\l__tblr_table_middlefoot_box=\box69
+\l__tblr_table_lastfoot_box=\box70
+\l__tblr_remain_height_dim=\dimen179
+\l__tblr_long_from_int=\count286
+\l__tblr_long_to_int=\count287
+\l__tblr_curr_i_int=\count288
+\l__tblr_prev_i_int=\count289
+\l__tblr_table_page_int=\count290
+\l__tblr_table_head_box=\box71
+\l__tblr_table_foot_box=\box72
+\l__tblr_table_head_foot_dim=\dimen180
+\l__tblr_table_head_body_foot_dim=\dimen181
+\l__tblr_table_box=\box73
+\l__tblr_table_hlines_box=\box74
+\l__tblr_hline_box=\box75
+\l__tblr_row_box=\box76
+\l__tblr_col_o_wd_dim=\dimen182
+\l__tblr_col_b_wd_dim=\dimen183
+\l__tblr_hline_leftskip_dim=\dimen184
+\l__tblr_hline_rightskip_dim=\dimen185
+\l__tblr_row_ht_dim=\dimen186
+\l__tblr_row_dp_dim=\dimen187
+\l__tblr_row_abovesep_dim=\dimen188
+\l__tblr_row_belowsep_dim=\dimen189
+\l__tblr_row_vlines_box=\box77
+\l__tblr_vline_box=\box78
+\l__tblr_cell_box=\box79
+\l__row_upper_dim=\dimen190
+\l__row_lower_dim=\dimen191
+\l__row_vpace_dim=\dimen192
+\l__tblr_vline_aboveskip_dim=\dimen193
+\l__tblr_vline_belowskip_dim=\dimen194
+\l__tblr_cell_wd_dim=\dimen195
+\l__tblr_cell_ht_dim=\dimen196
+\l__tblr_diag_box=\box80
+)
+(c:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(c:/texlive/2022/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
+57.
+
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+))
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+12.
+
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)))
+(c:/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count291
+)
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty
+(c:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-06-07 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count292
+\l__lipsum_a_int=\count293
+\l__lipsum_b_int=\count294
+
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(c:/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip51
+\RaggedLeftLeftskip=\skip52
+\RaggedRightLeftskip=\skip53
+\CenteringRightskip=\skip54
+\RaggedLeftRightskip=\skip55
+\RaggedRightRightskip=\skip56
+\CenteringParfillskip=\skip57
+\RaggedLeftParfillskip=\skip58
+\RaggedRightParfillskip=\skip59
+\JustifyingParfillskip=\skip60
+\CenteringParindent=\skip61
+\RaggedLeftParindent=\skip62
+\RaggedRightParindent=\skip63
+\JustifyingParindent=\skip64
+)
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2022/05/01 v3.36 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2022/05/01 v3.36 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2022/05/01 v3.36 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2022/05/01 v3.36 KOMA-Script package (file load hooks)
+
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2022/05/01 v3.36 KOMA-Script package (using LaTeX hooks)
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2022/05/01 v3.36 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)))
+\c@savefootnote=\count295
+\c@symfootnote=\count296
+
+(c:/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen197
+\captionmargin=\dimen198
+\caption@leftmargin=\dimen199
+\caption@rightmargin=\dimen256
+\caption@width=\dimen257
+\caption@indent=\dimen258
+\caption@parindent=\dimen259
+\caption@hangindent=\dimen260
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count297
+\c@continuedfloat=\count298
+)
+(c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count299
+\Gm@cntv=\count300
+\c@Gm@tempcnt=\count301
+\Gm@bindingoffset=\dimen261
+\Gm@wd@mp=\dimen262
+\Gm@odd@mp=\dimen263
+\Gm@even@mp=\dimen264
+\Gm@layoutwidth=\dimen265
+\Gm@layoutheight=\dimen266
+\Gm@layouthoffset=\dimen267
+\Gm@layoutvoffset=\dimen268
+\Gm@dimlist=\toks24
+)
+(c:/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box81
+\beforetitleunit=\skip65
+\aftertitleunit=\skip66
+\ttl@plus=\dimen269
+\ttl@minus=\dimen270
+\ttl@toksa=\toks25
+\titlewidth=\dimen271
+\titlewidthlast=\dimen272
+\titlewidthfirst=\dimen273
+)
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-05-17 v7.00q Hypertext links for LaTeX
+
+(c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(c:/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+))
+\c@section@level=\count302
+)
+\@linkdim=\dimen274
+\Hy@linkcounter=\count303
+\Hy@pagecounter=\count304
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-05-17 v7.00q Hyperref: PDFDocEncoding definition (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count305
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-05-17 v7.00q Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4020.
+Package hyperref Info: Hyper figures OFF on input line 4139.
+Package hyperref Info: Link nesting OFF on input line 4144.
+Package hyperref Info: Hyper index ON on input line 4147.
+Package hyperref Info: Plain pages OFF on input line 4154.
+Package hyperref Info: Backreferencing OFF on input line 4159.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4385.
+\c@Hy@tempcnt=\count306
+
+(c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4723.
+\XeTeXLinkMargin=\dimen275
+
+(c:/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count307
+\Field@Width=\dimen276
+\Fld@charsize=\dimen277
+Package hyperref Info: Hyper figures OFF on input line 6001.
+Package hyperref Info: Link nesting OFF on input line 6006.
+Package hyperref Info: Hyper index ON on input line 6009.
+Package hyperref Info: backreferencing OFF on input line 6016.
+Package hyperref Info: Link coloring ON on input line 6019.
+Package hyperref Info: Link coloring with OCG OFF on input line 6026.
+Package hyperref Info: PDF/A mode OFF on input line 6031.
+LaTeX Info: Redefining \ref on input line 6078.
+LaTeX Info: Redefining \pageref on input line 6078.
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count308
+\c@Item=\count309
+\c@Hfootnote=\count310
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-05-17 v7.00q Hyperref driver for pdfTeX
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count311
+\c@bookmark@seq@number=\count312
+
+(c:/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip67
+)
+(./PLSA_template.aux)
+\openout1 = `PLSA_template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 77.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 77
+.
+ (c:/texlive/2022/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+
+(c:/texlive/2022/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-06-07 L3 Experimental document command parser
+))
+(c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count313
+\scratchdimen=\dimen278
+\scratchbox=\box82
+\nofMPsegments=\count314
+\nofMParguments=\count315
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count316
+\MPscratchDim=\dimen279
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
+\everyMPtoPDFconversion=\toks27
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 77.
+(./PLSA_template.out) (./PLSA_template.out)
+\@outlinefile=\write4
+\openout4 = `PLSA_template.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 90.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 90.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 90.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 9
+0.
+
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 90.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 90.
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+ [][][]\OT1/ptm/m/n/10 Both ac-knowl-edg-ments and au-thor af-fil-i-a-tion in-f
+or-ma-tion go in an ini-tial foot-note like this, ref-er-enced by an as-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ptm/m/n/10 isk on the end of the last au-thor's name on the author-name li
+ne at the top. You can say who you would like to thank
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ptm/m/n/10 here and then end the foot-note as fol-lows. Au-thors: Au-thor 
+One, Uni-ver-sity of the At-lantic ([][]au-thor1@atlantic.edu[][]) &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+ []\OT1/ptm/b/n/12 Abstract. \OT1/ptm/m/n/12 The ti-tle and au-thor name(s) par
+a-graphs, cen-tered at the top of the first 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+ \OT1/ptm/m/n/12 page, and the ab-stract and key-word para-graphs should match 
+what is en-tered for 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+ \OT1/ptm/m/n/12 these fields in the sub-mis-sion pro-ce-dure. These will all b
+e in-cluded on the land-ing 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+ \OT1/ptm/m/n/12 page for the ar-ti-cle and in the meta-data that ac-com-pa-nie
+s it for bib-li-o-graph-i-cal and 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+ \OT1/ptm/m/n/12 search-engine in-dex-ing pur-poses. The ed-i-to-rial team will
+ add ci-ta-tion in-for-ma-tion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+ \OT1/ptm/m/n/12 with DOI in the header area of the first page. The \OT1/ptm/m/
+it/12 Se-man-tics and Prag-mat-ics \OT1/ptm/m/n/12 num- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+ \OT1/ptm/m/n/12 ber-ing sys-tem for PDF ar-ti-cles will be used for ci-ta-tion
+ pur-poses, with each ar-ti-cle 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+ \OT1/ptm/m/n/12 hav-ing an ID num-ber ac-cord-ing to its place in the ta-ble o
+f con-tents, fol-lowed by a 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+ \OT1/ptm/m/n/12 page num-ber range that be-gins with ``1'' and ends with a num
+-ber not larger than ``15''. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+ \OT1/ptm/m/n/12 Since the ar-ti-cle ID num-ber will be gen-er-ated by the ed-i
+-to-rial team only af-ter your 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+ \OT1/ptm/m/n/12 ar-ti-cle is sub-mit-ted, you should num-ber your ar-ti-cle st
+art-ing sim-ply with ``1'' cen-tered 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+ []\OT1/ptm/b/n/12 Keywords. \OT1/ptm/m/n/12 lan-guage sci-ence; pro-ceed-ings;
+ tem-plates; style sheets; for-mat-ting; LSA 
+ []
+
+
+Overfull \hbox (0.92584pt too wide) in paragraph at lines 105--106
+[]\OT1/ptm/m/n/12 Section ti-tle for-mat-ting is bold, num-bered, fol-lowed by 
+a pe-riod, and wholly con-tained within 
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
+18.
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+ [][][]\OT1/ptm/m/n/10 This is a num-bered foot-note that is meant to show how 
+it dif-fers from the thanks foot-note and to be just long
+ []
+
+[1
+
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 170
+.
+(c:/texlive/2022/texmf-dist/tex/latex/marvosym/umvs.fd)
+LaTeX Font Info:    Trying to load font information for T3+ptm on input line 17
+1.
+
+(c:/texlive/2022/texmf-dist/tex/latex/tipa/t3ptm.fd
+File: t3ptm.fd 2001/12/31 TIPA font definitions
+)
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+> Step: build the whole table.
+[2]
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+
+Overfull \hbox (23.94487pt too wide) in paragraph at lines 193--194
+[] []|\OT1/ptm/b/n/12 5. Ci-ta-tions and ref-er-ences.[] \OT1/ptm/m/n/12 Use au
+thor-date no-ta-tion for in-text ci-ta-tions, as pro-vided by [][]\OT1/pcr/m/n/
+12 \natbib[]\OT1/ptm/m/n/12 . 
+ []
+
+[3]
+Overfull \hbox (8.21147pt too wide) in paragraph at lines 211--212
+[]\OT1/ptm/m/n/12 If ex-port-ing the .bib file from an app like \OT1/ptm/m/it/1
+2 Zotero\OT1/ptm/m/n/12 , it is de-sir-able to ex-port it as UTF-8-encoded 
+ []
+
+(./PLSA_template.bbl
+Underfull \hbox (badness 1127) in paragraph at lines 36--41
+[]\OT1/ptm/m/n/12 Fodor, Janet Dean & Fer-nanda Fer-reira (eds.). 1998.  \OT1/p
+tm/m/it/12 Re-anal-y-sis in sen-tence pro-cess- 
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ê in font ptmr7t!
+[4]) [5] (./PLSA_template.aux)
+Package rerunfilecheck Info: File `PLSA_template.out' has not changed.
+(rerunfilecheck)             Checksum: D2FF75F7021E17507DA34D0A9C6DD0BA;1181.
+ ) 
+Here is how much of TeX's memory you used:
+ 16690 strings out of 478293
+ 289658 string characters out of 5848960
+ 712433 words of memory out of 5000000
+ 34644 multiletter control sequences out of 15000+600000
+ 490249 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,11n,117p,1012b,688s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1
+/public/marvosym/marvosym.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/couri
+er/ucrr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/
+texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2022/texm
+f-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1
+/urw/times/utmri8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tipa/xipa
+10.pfb>
+Output written on PLSA_template.pdf (5 pages, 115231 bytes).
+PDF statistics:
+ 181 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+
