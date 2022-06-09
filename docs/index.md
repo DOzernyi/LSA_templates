@@ -24,6 +24,4 @@ At the same time, it should cover the basis of most packages needed for classroo
 * [Tableaux (just tables, really; tabularray and tabular)](./pages/tabl.html)
 * [Symbols](./pages/symbols.html)
 
-<a href="dozernyi.github.io/LSA_templates/docs/pages/examples/examples.pdf" target="_blank">PDF.</a>
-
 * * *
