@@ -12,6 +12,10 @@ Qtree takes more space, has fewer options and is generally a tad more clumsy. It
 
 Forest ([here](https://ctan.org/pkg/forest?lang=en), links to CTAN) is very flexible. So that you don't have to read the documentation (which you should), here's a sample tree:
 
+* * *
+#### Disclaimer: do not copy the examples below directly, the comments separated by // below will not be recognized as such in LaTeX. LaTeX uses % for comments. Delete the comments, load the packages in the preamble and then use the examples.
+* * *
+
 ```js
 // a simple forest tree; Java coloring actually works nice here; requires \usepackage[linguistics]{forest}
 \begin{forest}
@@ -91,6 +95,7 @@ sn edges
 \begin{pgfinterruptboundingbox}
 \draw[-,looseness=1] (G) to [out=west,in=south] (D);
 \end{pgfinterruptboundingbox}
+\end{forest}
 ```
 
 ```js
@@ -99,8 +104,7 @@ sn edges
 [,phantom [K,name=A [$\alpha$, ][,phantom]][,phantom [$\beta$,name=C ]][L,name=D [,phantom][$\gamma$]]]
 \draw[dotted] (C.north) -- (A.south);
 \draw[dotted] (C.north) -- (D.south);
-\end{forest} \cite[from][119]{citko_multidominance_2011}
-
+\end{forest}
 ```
 * * *
 
