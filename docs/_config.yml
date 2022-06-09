@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: LSA templates
+title: LSA & LaTeX
 description: More or less detailed description of templates for <em>PLSA</em> and <em>PDA</em> (so far)
 logo: /assets/img/LSA_lg.png
 show_downloads: true

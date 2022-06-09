@@ -20,9 +20,9 @@ Compiling on desktop is not really a good option unless you already have the req
 
 The templates which are in the repo were compiled in _Atom_ (mainly) with _Atom_LaTeX_ package. The templates are far from perfect, this is especially true for the .bib files, where a lot of tweaking took place. Hopefully .bst will be updated at some point in the future to fit all the requirements. Pretty much in every case, .bib that was not created by hand (as it shouldn't be), but is output of some bibliography management system (e.g., Zotero) will need to be cleaned.
 
-This is one of the reasons log files are included in the repo in each folder (PLSA and PDA). Logs contain more information about what's wrong with the templates, e.g. (don't mind Java coloring):
+This is one of the reasons log files are included in the repo in each folder (PLSA and PDA). Logs contain more information about what's wrong with the templates, e.g.:
 
-```js
+```
 // from PDA_main.log, 725-725
 LaTeX Font Info: Font shape 'OT1/phv/m/it' in size <9> not available
 (Font)           Font shape 'OT1/phv/m/sl' tried instead on input line 206.
@@ -30,21 +30,21 @@ LaTeX Font Info: Font shape 'OT1/phv/m/it' in size <9> not available
 
 or
 
-```js
+```
 // from PLSA_template.blg, 46
 warning$ -- 2
 ```
 
-To the same effect, all the overfull and underfull are listed:
+To the same effect, all the overfull and underfull are listed if you really want to fix them:
 
-```js
+```
 // from PLSA_template.log, 590-593
 Underfull \hbox (badness 10000) in paragraph at lines 90--90
           [][][]\OT1/ptm/m/n/10 Both ac-knowl-edg-ments and au-thor af-fil-i-a-tion in-f
           or-ma-tion go in an ini-tial foot-note like...
 ```
 
-> **Note** that in GitHub repo, there is a file **PDA_preamble.tex** that happens to be empty. In the Overleaf template, it isn't empty. However, some local compilers have personal issues with **\include[path]**, so what was in the preamble on Overleaf is in root file locally. The empty preamble file was left just not to create an impression a file is missing -- and to use for those whose local compilers aren't misbehaved.
+> **Note** that in the GitHub repo, there is a file **PDA_preamble.tex** that happens to be empty. In the Overleaf template, it isn't empty. However, some local compilers have personal issues with **\include[path]**, so what was in the preamble on Overleaf is in root file locally. The empty preamble file was left just not to create an impression a file is missing -- and to use for those whose local compilers aren't misbehaved.
 
 GitHub repo also contains .zip-s of the Overleaf sources, should that be of interest.
 
