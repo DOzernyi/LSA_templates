@@ -24,6 +24,40 @@ sn edges
 \end{forest}
 ```
 
+
+```ruby
+// a simple forest tree; Java coloring actually works nice here; requires \usepackage[linguistics]{forest}
+\begin{forest}
+sn edges
+[S [NP [N [Matthew]]] [VP [V [kissed]] [NP [N [John]]] ]]
+\end{forest}
+```
+
+```tex
+% a simple forest tree; Java coloring actually works nice here; requires \usepackage[linguistics]{forest}
+\begin{forest}
+sn edges
+[S [NP [N [Matthew]]] [VP [V [kissed]] [NP [N [John]]] ]]
+\end{forest}
+```
+
+{% highlight python %}
+% a simple forest tree; Java coloring actually works nice here; requires \usepackage[linguistics]{forest}
+\begin{forest}
+sn edges
+[S [NP [N [Matthew]]] [VP [V [kissed]] [NP [N [John]]] ]]
+\end{forest}
+{% endhighlight %}
+
+
+{% highlight tex %}
+% a simple forest tree; Java coloring actually works nice here; requires \usepackage[linguistics]{forest}
+\begin{forest}
+sn edges
+[S [NP [N [Matthew]]] [VP [V [kissed]] [NP [N [John]]] ]]
+\end{forest}
+{% endhighlight %}
+
 The parameter _sn edges_ sets, trivially, edges, to a conventionally linguistic format. Include it with every tree right after the _begin_ bit. Somewhat more involved examples will include combining forest with _expex_ and _multicols_ in order to get a numbered example that has _a._ and _b._ parts to it, and those parts are next to each other. An example would be this:
 
 ```js
