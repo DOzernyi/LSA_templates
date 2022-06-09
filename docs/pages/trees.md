@@ -108,7 +108,4 @@ sn edges
 ```
 * * *
 
-
-
-
-[back](./)
+[go back](./index.md)

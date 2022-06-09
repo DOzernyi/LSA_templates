@@ -25,3 +25,6 @@ At the same time, it should cover the basis of most packages needed for classroo
 * [Symbols](./pages/symbols.html)
 
 * * *
+## [A .pdf of examples for the code in the pages above (links to a file in GitHub)](https://github.com/DOzernyi/LSA_templates/blob/master/docs/pages/examples/examples.pdf)
+
+* * *
