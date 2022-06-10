@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Under construction
 
 ## About
 
@@ -24,6 +25,8 @@ At the same time, it should cover the basis of most packages needed for classroo
 * [References (natbib, .bst)](./pages/ref.html)
 * [Tableaux (just tables, really; tabularray and tabular)](./pages/tabl.html)
 * [Symbols](./pages/symbols.html)
+
+> Fun fact: TeX is Turing-complete, which both lets you do [this](https://www.overleaf.com/read/ckbsvjnrfbhc), and also make things ever so slightly undecidable.
 
 * * *
 ### [A .pdf of examples for the code in the pages above (links to a file in GitHub).](https://github.com/DOzernyi/LSA_templates/blob/master/docs/pages/examples/examples.pdf)
