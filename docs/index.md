@@ -15,9 +15,7 @@ At the same time, it should cover the basis of most packages needed for classroo
 ### Disclaimer: If you are already using LaTeX locally, there's probably nothing new for you here. Just fork and clone from the GitHub page if need be (you'll only need PDA or PLSA folder though).
 * * *
 ## Pages covering specific topics
-<p align="center">
-    // Do consult concise Overleaf instructions on the very basics [here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
-</p>
+> Before that, do consult (a very) concise Overleaf instructions on the very basics [here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
 
 * [Compiling (Overleaf, local)](./pages/compiling.html)
 * [Trees (qtree, forest, multidominance)](./pages/trees.html)
