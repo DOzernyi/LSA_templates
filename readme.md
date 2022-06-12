@@ -1,1 +1,1 @@
-See the GitHub page for discussion (https://dozernyi.github.io/LSA_templates/).
+## Migrated to GitLab! See [https://dozernyi.gitlab.io/lsalatex](https://dozernyi.gitlab.io/lsalatex). This repo is not londer updated.
